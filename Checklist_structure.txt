@@ -1,0 +1,12 @@
+Checklist structure
+                              
+	1. Build, environment where testing was done;
+	2. Test date;
+	3. Tester name that did the testing;
+	4. Type of tests;
+	5. Name of checks;
+	6. Testing result;
+	7. List of unique identifiers for each check;
+	8. Link to the bug found.
+        
+
